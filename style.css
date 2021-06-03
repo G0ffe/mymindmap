@@ -1,0 +1,42 @@
+body {
+    width: 100%;
+    margin: 10px;
+    font-size: 1.5em;
+    box-sizing: border-box;
+}
+
+.level1 {
+    max-width: 600px;
+    margin-bottom: 5px;
+}
+
+.level2 {
+    margin-left: 40px;
+}
+
+.level3 {
+    margin-left: 80px;
+}
+
+.level4 {
+    margin-left: 120px;
+}
+
+.level5 {
+    margin-left: 160px;
+}
+
+.level6 {
+    margin-left: 200px;
+}
+
+details summary {
+    background-color: #4db1db;
+    border-bottom: thin solid black;
+    padding: 3px 0 3px 10px;
+    border-radius: 3px;
+}
+
+details {
+    padding: 3px;
+}
